@@ -14,7 +14,7 @@ Set The Timezone from a CODESYS Visualization
 ## Description
 This example provides a framework to set the Timezone of a PLC from a CODESYS Visualization. 
 
-![Program](SetTimezone1.png){width=749 height=396}
+![Program](Set_Timezone1.png){width=749 height=396}
 
 ## Support
 This program is for demonstration only and does not include support.  May contain bugs.  Use at your own risk.
